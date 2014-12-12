@@ -1,0 +1,23 @@
+/*tiendastyle.css*/
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,300,700);
+    
+    body{
+    background-color:#ffffff; 
+    margin:0;
+    padding:0;}
+
+h1,h2,h3 {
+font-family: 'Open Sans', sans-serif;
+font-weight: 300}
+
+section, header, article {
+    margin-bottom:10px;}
+
+header {margin-bottom: 60px;}
+
+.text {padding: 15px;}
+
+.marge {margin-bottom: 20px;}
+
+.boton{width: 200px;}

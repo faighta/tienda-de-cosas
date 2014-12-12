@@ -1,0 +1,23 @@
+/*dia4.css*/
+body{
+    background-color: #ffffff;
+}
+.container{
+    margin: 0 auto;
+    padding: 0;
+}
+article, section {
+    margin-top: 10px;
+}
+
+header nav {
+background-color: #e2e2e2;}
+
+/*
+.row{
+background-color: #e2e2e2;}
+*/
+
+footer nav ul {
+float:right;
+}
